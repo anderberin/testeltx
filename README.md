@@ -1,2 +1,3 @@
 # testeltx
-Repositório de testes em Latex
+
+Repositório de arquivos Latex para IHC...
